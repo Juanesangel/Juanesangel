@@ -1,5 +1,10 @@
 <h2 align="left">Hey que tal?  ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧  Soy Juanes estudiante de Ingeniería en sistemas y computación</h2>
 
+<!-- Agregado imagen de Spotify recientemente escuchado -->
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3kddrwwnasylkuoq1hugxkppe)
+</div>
+
 ###
 
 <div align="left">
@@ -22,7 +27,7 @@
   <a href="https://mail.google.com/juanesangelper@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href=" https://wa.me/57317580066" target="_blank">
+  <a href="https://wa.me/57317580066" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://outlook.office.com/J.angelp@uniandes.edu.co" target="_blank">
