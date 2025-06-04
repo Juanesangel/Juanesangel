@@ -1,8 +1,8 @@
 <h2 align="left">Hey que tal?  ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧  Soy Juanes estudiante de Ingeniería en sistemas y computación</h2>
 
-<!-- Agregado imagen de Spotify recientemente escuchado -->
+<!-- Imagen Spotify recently played usando solo HTML -->
 <div align="center">
-  https://spotify-recently-played-readme.vercel.app/api?user=3kddrwwnasylkuoq1hugxkppe
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3kddrwwnasylkuoq1hugxkppe" alt="Spotify recently played" />
 </div>
 
 ###
@@ -52,5 +52,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Juanesangel/Juanesangel/output/snake.svg" alt="Snake animation" />
-
-###
