@@ -36,19 +36,20 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/JuanesAngel747">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3kddrwwnasylkuoq1hugxkppe" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img align="right" height="200" src="https://media.tenor.com/EbqrdobATpAAAAAi/gengar.gif"  />
 
 ###
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/JuanesAngel747">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3kddrwwnasylkuoq1hugxkppe" alt="Spotify recently played"  />
+  </a>
+</div>
+
 
 <br clear="both">
 
