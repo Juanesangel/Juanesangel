@@ -32,7 +32,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif"  />
 
 ###
 
