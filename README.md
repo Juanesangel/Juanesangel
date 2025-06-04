@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif"  />
 
 ###
 
@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/EbqrdobATpAAAAAi/gengar.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/EbqrdobATpAAAAAi/gengar.gif"  />
 
 ###
 
