@@ -1,10 +1,5 @@
 <h2 align="left">Hey que tal?  ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧  Soy Juanes estudiante de Ingeniería en sistemas y computación</h2>
 
-<!-- Imagen Spotify recently played usando solo HTML -->
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3kddrwwnasylkuoq1hugxkppe" alt="Spotify recently played" />
-</div>
-
 ###
 
 <div align="left">
