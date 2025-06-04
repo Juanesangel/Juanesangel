@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Juanesangel/Juanesangel/output/dist/snake.svg" alt="Generate snake animation" />
+<img src="https://github.com/Juanesangel/Juanesangel/blob/output/snake.svg" alt="Snake animation" />
 
 ###
