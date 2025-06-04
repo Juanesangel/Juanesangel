@@ -2,7 +2,7 @@
 
 <!-- Agregado imagen de Spotify recientemente escuchado -->
 <div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3kddrwwnasylkuoq1hugxkppe)
+  https://spotify-recently-played-readme.vercel.app/api?user=3kddrwwnasylkuoq1hugxkppe
 </div>
 
 ###
