@@ -44,18 +44,7 @@
 
 ###
 
-<div align="center">
-<iframe
-  title="Spotify Embed: Recommendation Playlist"
-  src="https://open.spotify.com/playlist/3Je0AKAAxyPKtGIwzYhidg"
-  width="100%"
-  height="360"
-  frameBorder="0"
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy"
-/>
 
-</div>
 
 
 <br clear="both">
